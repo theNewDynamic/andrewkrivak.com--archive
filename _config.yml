@@ -80,7 +80,7 @@ plugins_dir:  ./_app/_plugins
 layouts_dir:  ./_app/_layouts
 includes_dir: ./_app/_includes
 paginate: 15
-paginate_path: "/news/page:num/"
+paginate_path: "/journal/page:num/"
 permalink: pretty
 
 jekyll-archives:
