@@ -4,7 +4,7 @@ layout: default
 {% assign books = site.books | sort: 'publication_date' | reverse %}
 
 
-<div class="col-12 clearfix bg-contain bg-no-repeat"{% if page.background_image_path %} style="background-image:url({{ page.background_image_path }});"{% endif %}>
+<div class="col-12 clearfix bg-cover bg-no-repeat"{% if page.background_image_path %} style="background-image:url({{ page.background_image_path }});"{% endif %}>
 
 
 
