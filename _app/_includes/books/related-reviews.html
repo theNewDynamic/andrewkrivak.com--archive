@@ -10,7 +10,7 @@
 {% if reviews %}<h2 style="margin-top:2em;">Praise for <em>{{ book_title }}</em></h2>{% endif %}
 
 {% for review in reviews limit: 20 %}
-  <blockquote class="mb4 h2">
+  <blockquote class="mb4 h4 md-h3 lg-h2">
     {% if review.copy_markdown  %}
       {{ review.copy_markdown | markdownify }}
     {% endif %}
