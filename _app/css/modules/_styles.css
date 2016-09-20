@@ -18,3 +18,10 @@ article.hentry img[alt~="full-img"] {
   max-height: none;
   margin: .75em auto 1.25em auto;
 }
+
+/*p > img {
+  float: left;
+  max-height: 20em;
+  margin: .75em 1.5em .75em 0;
+  padding-bottom: 1.5em;
+}*/
