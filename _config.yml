@@ -173,12 +173,13 @@ base-layout-classes-wide: ' clearfix mx3 sm-mx3 md-mx-auto lg-mx-auto lg-col-9 p
 base-layout-classes-full: ' col-12 px3'
 
 
-fonts_loaded: "'Vesper+Libre:400,500,900'"
-font-heading: "'Vesper Libre', 'Merriweather', Georgia, Cambria, 'Times New Roman', Times, serif;"
-font-primary: "'Vesper Libre', 'Merriweather', Georgia, Cambria, 'Times New Roman', Times, serif;"
+fonts_loaded: "Libre+Baskerville:400,400i,700"
+#fonts_loaded: "Vollkorn:400,400i,700,700i"
+font-heading: "'Libre Baskerville',  Georgia, Cambria, 'Times New Roman', Times, serif;"
+font-primary: "'Libre Baskerville',  Georgia, Cambria, 'Times New Roman', Times, serif;"
 #font-primary: "'Open Sans', 'Avenir Next', 'Lato','Helvetica Neue', Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',sans-serif;"
 font-small: "'Open Sans', 'Avenir Next', 'Lato','Helvetica Neue', Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',sans-serif;"
-font-weight-heavy: '900'
+font-weight-heavy: '700'
 
 # COLORS
 white: "#FFF"

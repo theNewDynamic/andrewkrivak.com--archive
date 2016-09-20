@@ -4,6 +4,8 @@ layout: default
 {% assign books = site.books | sort: 'publication_date' | reverse %}
 
 
+<div class="col-12 clearfix bg-contain bg-no-repeat"{% if page.background_image_path %} style="background-image:url({{ page.background_image_path }});"{% endif %}>
+
 
 
   <div class="h2 sm-h1 md-h1 lg-h1 font-heading line-height-4 clearfix mx3 sm-mx3 md-mx-auto lg-mx-auto lg-col-10 py2 lg-p3 mt2 lg-mt4 pb1 text-decoration-none black" style="display:none;">
@@ -13,9 +15,8 @@ layout: default
     <img src="/uploads/site/ic_keyboard_arrow_down_white_24px.svg" alt="scroll down" class=" p0 center m4 circle bg-accent-color" style="height:50px;" />
   </a>
 
-{% for object in books limit: 1 %}
-<div id="book" class="lg-col-9 mx3 lg-mx-auto clearfix my2 lg-my4">
-
+  {% for object in books limit: 1 %}
+    <div id="book" class="lg-col-9 mx3 lg-mx-auto clearfix my2 lg-my4">
 
     {% assign editions = object.editions %}
     {% assign review = object.reviews[0] %}
@@ -23,7 +24,7 @@ layout: default
 
     <div class="md-col lg-col col-12 md-col-5 lg-col-5">
       {% if description_markdown %}
-        <div class="h2 clearfix col-12">
+        <div class="h2 clearfix col-12 white">
           {{ description_markdown | markdownify  }}
         </div>
       {% endif %}
@@ -41,7 +42,7 @@ layout: default
           — {{ review.attribution | markdownify | remove: '<p>' | remove: '</p>' }}
         </div>
       {% endcomment %}
-      <div class="my4 col-12 flex clearfix gray font-small">
+      <div class="my4 col-12 flex clearfix white font-small">
         {% include books/buy-links.html classes=list_classes %}
       </div>
     </div>
@@ -49,27 +50,18 @@ layout: default
     <div class="md-col lg-col col-12 md-col-5 lg-col-5 lg-ml4 mb4">
       {% if object.cover_image_path %}
         <a href="{{ object.url }}">
-          <img src="{{ object.cover_image_path }}" alt="cover image for {{ object.title }}" class="box-shadow-small-black transition" />
+          <img src="{{ object.cover_image_path }}" alt="cover image for {{ object.title }}" class="box-shadow-small-black transition" style="max-height:80vh;" />
         </a>
       {% endif %}
     </div>
 
 
+  </div>
 </div>
-
 
 <div class="{{ site.base-layout-classes-wide }}">
     {% include books/related-reviews.html %}
 </div>
 
-{% comment %}
-<!-- image gallery -->
-  {% include image-gallery.html limit=10 %}
-
-<div class="px3 center mb4 col-12 log-col-3 mx-autoflex clearfix gray font-small">
-  or
-  {% include books/buy-links.html classes=list_classes %}
-</div>
- {% endcomment %}
 
 {% endfor %}
