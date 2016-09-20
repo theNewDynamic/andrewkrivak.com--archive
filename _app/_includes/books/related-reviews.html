@@ -1,0 +1,23 @@
+{% if object.reviews  %}
+  {% assign reviews = object.reviews %}
+  {% assign book_title = object.title  %}
+{% else %}
+  {% assign reviews = page.reviews %}
+  {% assign book_title = page.title  %}
+{% endif %}
+
+
+{% if reviews %}<h2 style="margin-top:2em;">Praise for <em>{{ book_title }}</em></h2>{% endif %}
+
+{% for review in reviews limit: 20 %}
+  <blockquote class="mb4 h2">
+    {% if review.copy_markdown  %}
+      {{ review.copy_markdown | markdownify }}
+    {% endif %}
+    {% if review.attribution %}
+      <span class="h4">
+        – {{ review.attribution | markdownify | remove: '<p>' | remove: '</p>' }}
+      </span>
+    {% endif %}
+  </blockquote>
+{% endfor %}
