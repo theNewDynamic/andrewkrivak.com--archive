@@ -31,22 +31,29 @@ cover_image_path: /uploads/cover_sojourn_hb.jpg
 
 Inspired by Andrew Krivak’s personal family history, _The Sojourn_ is the story of Jozef Vinich, who was uprooted from a 19th-century mining town in Colorado by a shocking family tragedy to return with his father to an impoverished shepherd’s life in rural Austria-Hungary. When war comes, Jozef joins his cousin and brother-in-arms as a sharpshooter on the southern front, where he must survive a perilous trek across the frozen Italian Alps and capture by a victorious enemy.
 
+<!-- ![Youg_Slovak_Conscript_circa1917.jpg left-align](/uploads/Youg_Slovak_Conscript_circa1917.jpg)  -->
+
 As poetic as _Cold Mountain_ and _The English Patient_, this novel grips readers with chilling scenes of death and survival as it evokes a time when Czechs, Slovaks, Austrians, Hungarians, and Germans fought on the same side while divided by language, ethnicity, and social class in the most brutal war to date. It is also a poignant tale of fathers and sons, addressing the great immigration to America and the desire to live the American dream amid the unfolding tragedy in Europe.
 
-**National Book Award Finalist**
 
-**Winner of The Chautauqua Prize**
+<!--
+---
 
-**An Indie Next List selection: Great Reads from Booksellers You Trust**
+![left-align](/uploads/CHQPrize_logo.png)
 
-**A Barnes & Noble Discover Great New Writers selection**
+![left-align](/uploads/DLPP-Seal-126x126.jpg)
 
-**Winner 2012 Dayton Literary Peace Prize**
+--- -->
+---
 
-<!-- ![](CHQPrize_logo.png) -->
+#### National Book Award Finalist
 
-![](/uploads/CHQPrize_logo.png)
+#### Winner of The Chautauqua Prize
 
-![](/uploads/DLPP-Seal-126x126.jpg)
+#### An Indie Next List selection: Great Reads from Booksellers You Trust
 
-<!-- ![Youg_Slovak_Conscript_circa1917.jpg](/uploads/Youg_Slovak_Conscript_circa1917.jpg) -->
+#### A Barnes & Noble Discover Great New Writers selection
+
+#### Winner 2012 Dayton Literary Peace Prize
+
+---
