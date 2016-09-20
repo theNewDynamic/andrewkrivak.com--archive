@@ -4,3 +4,17 @@
   top: 50%;
   transform: translateY(-50%);
 }*/
+
+img[alt~="left-align"] {
+  float: left;
+    margin: .25em .75em .125em 0;
+}
+img[alt~="right-align"] {
+  float:right;
+  margin: .75em 0 .75em 1.5em;
+}
+article.hentry img[alt~="full-img"] {
+  float:none;
+  max-height: none;
+  margin: .75em auto 1.25em auto;
+}
