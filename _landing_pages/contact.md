@@ -2,14 +2,19 @@
 title: Contact
 #include: components/forms-contact.html
 ---
-#### To contact Herman
 
-<hermanmelvilee98989898@gmail.com>
+### Publicity and event queries:
 
----
+Molly Mikolowski @ A Literary Light  
+(612) 728-1692    
 
-#### For literary rights/Inquiries, please contact:  
+<molly.mikolowski@gmail.com>
 
-**Nathan Hawkthorn**  
-The Nathan Hawkthorn Agency  
-(212) 586-5100  
+
+
+### Agent representation:
+Betsy Lerner  
+Dunow Carlson & Lerner  
+27 West 20th Street, Suite 1107  
+New York, NY  
+212-645-7606  

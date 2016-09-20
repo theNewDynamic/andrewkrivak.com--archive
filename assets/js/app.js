@@ -1,1 +1,1 @@
-var elem=document.querySelector(".grid");var pckry=new Packery(elem,{itemSelector:".grid-item",gutter:10});var pckry=new Packery(".grid",{});
+var grid=document.querySelector(".grid");var pckry=new Packery(grid,{itemSelector:".grid-item",percentPosition:true});imagesLoaded(grid).on("progress",function(){pckry.layout()});smoothScroll.init({selector:"a",selectorHeader:null,speed:900,easing:"easeInOutCubic",offset:100,callback:function(e,r){}});
