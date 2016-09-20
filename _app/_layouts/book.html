@@ -17,11 +17,11 @@ layout: default
   </article>
 </div>
 
-{% if page.layout == 'book' %}
+
 <div class="{{ site.base-layout-classes-wide }}">
-    {% include books/related-reviews.html %}
+    {% include books/related-reviews.html limit=1000 %}
 </div>
-{% endif %}
+
 
 {% comment %}
 <!-- image gallery -->
