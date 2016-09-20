@@ -1,6 +1,7 @@
 ---
 title: Excerpt from The Sojourn
 categories: book-extras
+excerpt: "But it wasn’t until the final weeks, when we began to practice on the rifle range, that our fate, you might say, was sealed, when the training officer discovered that we really could shoot."
 ---
 ZLEE AND I WERE LUCKY TO HAVE JOINED UP TOGETHER. Basic training, with its weeks of constant drilling from dawn well into the night, seemed a thing requiring no effort. We were used to a life of early mornings and physical labor outside all day. It knocked us down a few pegs, got us used to hearing obscenities for marching sloppily or wearing scuffed boots, or maybe it was just to remind us that there was someone whose job it was to tell us what to do every waking hour of those days, and I began to miss the leisure of books and conversation, but I confronted these obstacles as a simple rite of passage. And Zlee, Zlee had this way—maddening to our corporal, who had never seen battle, and would likely have turned tail if he had—of conforming to the least detail with obsessive perfection, all the while making it clear by his indifferent, canine stride and aloof, unanimated face that these least details (which he would see to their completion) meant nothing to him. Zlee was as indomitable as he was bereft of guile.
 

@@ -1,6 +1,7 @@
 ---
 title: A Conversation on The Sojourn
 categories: book-extras
+excerpt: 'When I first conceived of _The Sojourn_, it seemed impossible to write anything but an epic work that teemed with characters and spanned generations. But when I considered the lives of my grandparents and thought of how they both out of necessity learned as much how to surrender as to resist in order to survive, the work began to pare itself down quickly, until every tale and anecdote I had ever heard morphed into an amalgam of a single person'
 ---
 ![A Conversation on The Sojourn](/uploads/WWI.Grandfather.Aus-Hun.jpg)
 
