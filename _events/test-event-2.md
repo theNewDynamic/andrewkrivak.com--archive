@@ -9,7 +9,8 @@ venue:
   state: AK
   zip: '10001'
 link: 'http://example.com'
-_comment: 'links look like: http://example.com'
+_comments: 
+  link: 'links look like: http://example.com'
 ---
 
 
