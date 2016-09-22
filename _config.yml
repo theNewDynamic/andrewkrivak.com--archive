@@ -58,7 +58,7 @@ image_url: http://thenewdynamic.imgix.net
 google_analytics_id: UA-xxxxx-4
 incremental: false
 #port: 3575
-
+cc_id: 25099
 
 # Settings
 production: false
@@ -116,9 +116,9 @@ collections:
   books:
     output: true
     permalink: '/:collection/:path/'
-  image_galleries:
-    output: false
-    _hide_content: true
+  # image_galleries:
+  #   output: false
+  #   _hide_content: true
   # genres:
   #   output: false
   #   permalink: '/:collection/:path/'
