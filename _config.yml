@@ -1,7 +1,7 @@
 # jekyll-seo-tag
 title: "Andrew Krivák"
 description: Official Author site for Andrew Krivák
-url: "http://www.andrewkrivak.com" # the base hostname & protocol for your site
+url: "https://www.andrewkrivak.com" # the base hostname & protocol for your site
 author: []
 twitter:
   username: andrewkrivak
