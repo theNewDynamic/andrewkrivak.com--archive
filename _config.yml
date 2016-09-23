@@ -5,12 +5,12 @@ url: "https://www.andrewkrivak.com" # the base hostname & protocol for your site
 author: []
 twitter:
   username: andrewkrivak
-facebook_user: "http://www.facebook.com/pages/The-Sojourn/170162363031468"
+facebook_user: "https://www.facebook.com/pages/The-Sojourn/170162363031468"
 facebook:
   app_id:
   publisher:
   admins:
-logo: /uploads/delete-cover-moby.jpg
+logo: /uploads/cover-signal-flame-final-700px.jpg
 google_site_verification:
 github:
   username: budparr
@@ -61,7 +61,7 @@ incremental: false
 cc_id: 25099
 
 # Settings
-production: false
+production: true
 bust_css_cache: false
 timezone: Etc/Zulu
 # compress_html:
@@ -74,7 +74,6 @@ gems:
   - jekyll-seo-tag
   #- jekyll-sitemap
   - jekyll-paginate
-  - jekyll-admin
   - jekyll-archives
 plugins_dir:  ./_app/_plugins
 layouts_dir:  ./_app/_layouts
