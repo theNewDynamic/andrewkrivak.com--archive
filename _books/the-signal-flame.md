@@ -11,12 +11,14 @@ editions:
   - binding: ebook
     isbn: 9781501126406
 reviews:
+  - attribution: Richard Russo
+    copy_markdown: "Readers will hear some echoes of Faulkner in *The Signal Flame,*&nbsp;and even more of Kent Haruf in the simplicity, honesty, and wisdom of its prose.&nbsp; But what they'll hear most is the deep, thoughtful, resonant voice of Andrew Kriv&aacute;k, a writer seemingly destined for great things. &nbsp; &nbsp;&nbsp;"
   - attribution: 'Jesmyn Ward, author of *Salvage the Bones* and *Men We Reaped*.'
-    copy_markdown: 'Andrew Krivák gives us characters and a community that could have come out of The Deer Hunter—men and women challenged by natural and human-made disasters, love and simmering hate. While these small town Pennsylvania people confront life’s big questions, the true north of the novel is in the day-to-day, the ordinary, where Krivák has found the extraordinary. A well-crafted novel, elegantly told, *The Signal Flame* is a testament to Krivák’s singular talent.'
+    copy_markdown: 'Andrew Kriv&aacute;k gives us characters and a community that could have come out of The Deer Hunter—men and women challenged by natural and human-made disasters, love and simmering hate. While these small town Pennsylvania people confront life’s big questions, the true north of the novel is in the day-to-day, the ordinary, where Kriv&aacute;k has found the extraordinary. A well-crafted novel, elegantly told, *The Signal Flame* is a testament to Kriv&aacute;k’s singular talent.'
   - attribution: "Maaza Mengiste, author of *Beneath the Lion's Gaze*"
-    copy_markdown: "The language in this beautiful book is as textured and rich--as quiet and grand and unforgettable--as its setting: a small Pennsylvania town tucked in the mountains. It isn't often that a story finds me making comparisons to literary greats from the first page. This is one of those books. In the end, what Krivák does is something all his own, and it is a triumph."
+    copy_markdown: "The language in this beautiful book is as textured and rich–as quiet and grand and unforgettable–as its setting: a small Pennsylvania town tucked in the mountains. It isn't often that a story finds me making comparisons to literary greats from the first page. This is one of those books. In the end, what Kriv&aacute;k does is something all his own, and it is a triumph."
   - attribution: 'Thomas Moore, author of *Care of the Soul*'
-    copy_markdown: 'With *The Signal Flame* Andrew Krivák shows us what masterful fiction can do. Inch by inch he reveals the hidden life of a multi-generational family, its impossible tensions and their miraculous resolutions. The beauty of the language invites you to go deep and become involved in the unfolding story, worried about the characters and relieved at their physical and emotional survival. Like a dream the story swallowed me up, and I came out of it more aware of the narrative power of my own life.'
+    copy_markdown: 'With *The Signal Flame* Andrew Kriv&aacute;k shows us what masterful fiction can do. Inch by inch he reveals the hidden life of a multi-generational family, its impossible tensions and their miraculous resolutions. The beauty of the language invites you to go deep and become involved in the unfolding story, worried about the characters and relieved at their physical and emotional survival. Like a dream the story swallowed me up, and I came out of it more aware of the narrative power of my own life.'
 cover_image_path: /uploads/cover-signal-flame-final-700px.jpg
 ---
 
