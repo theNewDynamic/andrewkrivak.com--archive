@@ -5,7 +5,9 @@ title: Contact
 
 ### Publicity and event queries:
 
-Please contact Kate Lloyd. kate.lloyd@simonandschuster.com
+Please contact Kate Lloyd.
+
+kate.lloyd@simonandschuster.com
 
 &nbsp;
 
