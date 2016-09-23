@@ -2,7 +2,7 @@
 title: The Signal Flame
 subtitle: A Novel
 date: 2016-08-04T03:12:00.000Z
-publication_date: 2017-02-07T00:00:00.000Z
+publication_date: 2017-01-24T00:00:00.000Z
 genre: fiction
 description_markdown: 'The stunning second novel from National Book Award finalist Andrew Kriv&aacute;k—a heartbreaking, captivating story about a family awaiting the return of their youngest son from the Vietnam War.'
 editions:
@@ -27,4 +27,4 @@ Having survived the trenches of World War I as an Austro-Hungarian conscript, Jo
 
 Bo, Hannah’s remaining child, chooses a different path from his brother: Quiet, full of conviction, and with a firstborn’s sense of duty, Bo remains at home to grieve and to hope for reunion, to create new life, to embrace the land and work. From the narrative of this family’s experience, *The Signal Flame* emerges as a stirring novel about generations of men and women and the events that define them, old world values yielding to new world ways, and the convalescence of memory and hurt.
 
-Beginning shortly after Easter in 1972 and ending on Christmas Eve, this ambitious novel gracefully evokes ordinary time, a period of living and working while waiting and watching and expecting. *The Signal Flame* is gorgeously written, honoring the cycles of earth and body, humming with blood and passion, and it confirms Andrew Kriv&aacute;k as a writer of extraordinary vision and power.
+Beginning shortly after Easter in 1972 and ending on Christmas Eve, this ambitious novel gracefully evokes ordinary time, a period of living and working while waiting and watching and expecting. *The Signal Flame* is gorgeously written, honoring the cycles of earth and body, humming with blood and passion, and it confirms Andrew Krivák as a writer of extraordinary vision and power.
