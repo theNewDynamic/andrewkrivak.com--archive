@@ -162,6 +162,8 @@ defaults:
       _comments:
         title: Event Description
         venue: Venue name. Address is optional
+        link: 'links look like: http://example.com'
+
 
 
 
