@@ -1,12 +1,15 @@
 ---
-title: Book Culture March 24
-start_at: 2017-02-01 12:00:00
+title: Book Culture
+start_at: 2017-03-24 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-link:
+  name: Book Culture
+  address: 536 W. 112 St.
+  city: New York
+  state: NY
+  zip: '10025'
+link: 'http://www.bookculture.com/'
 ---
+
+
+Reading
