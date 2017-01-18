@@ -1,12 +1,15 @@
 ---
-title: "Gibson's Books Feb 9"
-start_at: 2016-10-01 12:00:00
+title: "Gibson's Books"
+start_at: 2016-10-01 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-link:
+  name: "Gibson's Books"
+  address: 45 South Main St.
+  city: Concord
+  state: NH
+  zip: '03301'
+link: 'http://www.gibsonsbookstore.com/'
 ---
+
+
+Reading
