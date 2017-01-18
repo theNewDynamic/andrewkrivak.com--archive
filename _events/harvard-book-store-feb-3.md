@@ -9,9 +9,6 @@ venue:
   state: MA
   zip: 02138
 link: 'http://www.Harvard.com'
-_comments:
-  link: 'links look like: http://example.com'
 ---
-
 
 Reading

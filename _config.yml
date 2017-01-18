@@ -53,6 +53,14 @@ navigation-links:
   - title: "Contact"
     url: /contact/
 
+
+button-classes: ' btn btn-outline col-12 sm-col-auto md-col-auto lg-col-auto mb2 gray border-silver hover-bg-black hover-white transition'
+base-layout-classes: ' mx3 sm-mx3 md-mx-auto lg-mx-auto lg-col-6 py2 lg-p3'
+base-layout-classes-wide: ' clearfix mx3 sm-mx3 md-mx-auto lg-mx-auto lg-col-9 py2 lg-p3'
+base-layout-classes-full: ' col-12 px3'
+posting_classes: 'col-12 border-bottom border-divider-color p3 text-decoration-none block py2 secondary-text-color hover-white hover-bg-primary-color transition'
+sidebar_item_classes: 'right-align text-decoration-none block px4 py1 primary-text-color hover-white hover-bg-primary-color transition{% if page.url contains category_slug %} bg-primary-color{% endif %}'
+
 # development meta data
 # image_url: http://thenewdynamic.imgix.net
 google_analytics_id: UA-xxxxx-4
