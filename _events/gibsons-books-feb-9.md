@@ -1,6 +1,6 @@
 ---
 title: "Gibson's Books"
-start_at: 2016-10-01 19:00:00
+start_at: 2016-02-09 19:00:00
 show_time: true
 venue:
   name: "Gibson's Books"
