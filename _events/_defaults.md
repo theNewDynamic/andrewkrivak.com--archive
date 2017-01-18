@@ -9,6 +9,4 @@ venue:
   state:
   zip:
 link:
-_comments:
-  link: 'links look like: http://example.com'
 ---
