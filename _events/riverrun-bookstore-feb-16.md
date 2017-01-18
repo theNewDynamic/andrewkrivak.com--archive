@@ -1,5 +1,5 @@
 ---
-title: RiverRun Bookstore Feb 16
+title: RiverRun Bookstore
 start_at: 2017-02-16 18:30:00
 show_time: true
 venue:
