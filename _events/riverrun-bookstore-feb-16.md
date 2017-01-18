@@ -1,12 +1,15 @@
 ---
 title: RiverRun Bookstore Feb 16
-start_at: 2017-02-01 12:00:00
+start_at: 2017-02-16 18:30:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-link:
+  name: RiverRun Bookstore
+  address: 142 Fleet St.
+  city: Portsmouth
+  state: NH
+  zip: 03801
+link: 'http://riverrunbookstore.com/'
 ---
+
+
+Reading
