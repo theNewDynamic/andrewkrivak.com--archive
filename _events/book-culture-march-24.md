@@ -1,6 +1,6 @@
 ---
 title: Book Culture
-start_at: 2017-03-2d4 19:00:00
+start_at: 2017-03-24x 19:00:00
 show_time: true
 venue:
   name: Book Culture
