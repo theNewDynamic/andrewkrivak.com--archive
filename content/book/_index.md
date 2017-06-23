@@ -1,0 +1,4 @@
+---
+title: Booksyo
+url: /bookish/
+---
