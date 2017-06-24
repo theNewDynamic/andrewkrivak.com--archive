@@ -1,3 +1,4 @@
+{{/* This template is copied from the theme "post" section */}}
   <div class="mb3 pa4 mid-gray overflow-hidden">
     {{ if .Date }}
       <div class="f6">
@@ -10,6 +11,6 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      {{ .Summary  }}
+      {{ .Summary | truncate 140 "…" }}
     </div>
   </div>

@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{/* This template is copied from the theme "post" section */}}
   <article class="pa3 pa4-ns nested-copy-line-height nested-img">
   <main class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
@@ -6,7 +7,7 @@
     {{ $section := .Paginate (where .Data.Pages "Section" .Section) }}
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range  $section.Pages }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
+        <div class="relative w-100 w-30-l mb4 bg-near-white">
           {{ .Render "summary" }}
         </div>
       {{ end }}
