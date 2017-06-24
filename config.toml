@@ -5,34 +5,33 @@ theme = "thenewdynamic-hugo-core-theme"
 metaDataFormat = "yaml"
 log = true
 [params]
-    featured_blurb_for_books_page = "Some writers are good at drawing a literary curtain over reality, and then there are writers who raise the veil and lead us to see for the first time. Krivák belongs to the latter. The Sojourn, about a war and a family and coming-of-age, does not present a single false moment of sentimental creation. Rather, it looks deeply into its characters' lives with wisdom and humanity, and, in doing so, helps us experience a distant past that feels as if it could be our own. – National Book Awards Judges’ Citation for The Sojourn (2011 Fiction Finalist)"
-
+  body_classes = "bg-near-white"
 [permalinks]
   page = "/:title/"
   about = "/:filename/"
 
 [[menu.main]]
     name = "about"
-    weight = 0
+    weight = 1
     identifier = "about"
     url = "/about/"
 [[menu.main]]
     name = "books"
     identifier = "books"
-    weight = 1
+    weight = 2
     url = "/book/"
 [[menu.main]]
     name = "contact"
     identifier = "contact"
-    weight = 2
+    weight = 3
     url = "/contact/"
 [[menu.main]]
     name = "journal"
     identifier = "journal"
-    weight = 3
+    weight = 4
     url = "/journal/"
 [[menu.main]]
     name = "events"
     identifier = "events"
-    weight = 4
+    weight = 5
     url = "/event/"

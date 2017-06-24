@@ -1,6 +1,6 @@
 ---
-sdate: 2017-02-16 18:30:00
 link: http://riverrunbookstore.com/
+sdate: 2017-02-16 18:30:00
 show_time: true
 title: RiverRun Bookstore
 venue:

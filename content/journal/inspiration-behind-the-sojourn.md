@@ -1,9 +1,12 @@
-+++
-excerpt = "On my desk I kept a photograph I have of my grandfather, a boyish-looking seventeen, posing with three other “gunners” of the Austro-Hungarian army with what I would discover later was a makeshift anti-aircraft gun, which the Austrians used unsuccessfully against the British Sopwith Camels that wreaked havoc among the Central Powers troops on the Italian front."
-publish_date = "2011-04-11"
-title = "Inspiration Behind The Sojourn"
-
-+++
+---
+excerpt: On my desk I kept a photograph I have of my grandfather, a boyish-looking
+  seventeen, posing with three other “gunners” of the Austro-Hungarian army with what
+  I would discover later was a makeshift anti-aircraft gun, which the Austrians used
+  unsuccessfully against the British Sopwith Camels that wreaked havoc among the Central
+  Powers troops on the Italian front.
+date: 2011-04-11T12:00:00-05:00
+title: Inspiration Behind The Sojourn
+---
 
 ![Youg_Slovak_Conscript_circa1917.jpg left-align](/img/Youg_Slovak_Conscript_circa1917.jpg) On my desk I kept a photograph I have of my grandfather, a boyish-looking seventeen, posing with three other “gunners” of the Austro-Hungarian army with what I would discover later was a makeshift anti-aircraft gun, which the Austrians used unsuccessfully against the British Sopwith Camels that wreaked havoc among the Central Powers troops on the Italian front.
 

@@ -1,8 +1,8 @@
-+++
-categories = "book-extras"
-title = "NPR Interview"
-
-+++
+---
+categories: book-extras
+title: NPR Interview
+date: 2017-06-21T12:00:00-05:00
+---
 
 Listen to this interview with me on ["ArtScene"](https://soundcloud.com/wvia-public-media/writer-andrew-krivak-april-17-2017?in=wvia-public-media/sets/artscene-1) with Erika Funkeon at WVIA Public Media
 

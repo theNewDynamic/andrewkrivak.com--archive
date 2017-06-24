@@ -1,7 +1,6 @@
-+++
-title = "Contact"
-
-+++
+---
+title: Contact
+---
 
 **Publicity and event queries:**
 

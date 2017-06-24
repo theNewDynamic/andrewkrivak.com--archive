@@ -1,9 +1,9 @@
-+++
-excerpt = "When I first conceived of _The Sojourn_, it seemed impossible to write anything but an epic work that teemed with characters and spanned generations. But when I considered the lives of my grandparents and thought of how they both out of necessity learned as much how to surrender as to resist in order to survive, the work began to pare itself down quickly, until every tale and anecdote I had ever heard morphed into an amalgam of a single person."
-publish_date = "2011-04-07"
-title = "A Conversation on The Sojourn"
-
-+++
+---
+excerpt: "When I first conceived of _The Sojourn_, it seemed impossible to write anything
+  but an epic work that teemed with characters and spanned generations."
+date: 2011-04-07T12:00:00-05:00
+title: A Conversation on The Sojourn
+---
 
 ![A Conversation on The Sojourn](/img/WWI.Grandfather.Aus-Hun.jpg)
 
