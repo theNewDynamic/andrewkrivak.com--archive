@@ -1,11 +1,12 @@
 languageCode = "en-us"
-title = "Andrew Krivak"
+title = "Andrew Krivák"
 baseurl = "http://andrewkrivak.com"
 theme = "thenewdynamic-hugo-core-theme"
 metaDataFormat = "yaml"
 log = true
 [params]
-  body_classes = "bg-near-white"
+  body_classes = "bg-white serif"
+  #background_color_class = "bg-near-black"
 [permalinks]
   page = "/:title/"
   about = "/:filename/"
