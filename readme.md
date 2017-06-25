@@ -1,0 +1,1 @@
+Author site for Andrew Krivák built by the New Dynamic with Hugo, Tachyons, PostCSS, Webpack.
