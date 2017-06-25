@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Andrew Krivák"
-baseurl = "http://andrewkrivak.com"
+baseurl = "https://www.andrewkrivak.com"
 theme = "thenewdynamic-hugo-core-theme"
 metaDataFormat = "yaml"
 log = true
