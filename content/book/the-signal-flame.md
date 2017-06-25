@@ -1,27 +1,19 @@
 ---
-cover_image: "/img/cover-signal-flame-final-700px.jpg"
-date: '2017-01-24T10:17:00-05:00'
-description: The stunning second novel from National Book Award finalist Andrew Krivák
-  – a heartbreaking, captivating story about a family awaiting the return of their
-  youngest son from the Vietnam War.
-ebook_isbn: 9781501126406
-featured_image: "/img/bg-forest-2100.jpg"
-genre:
-- fiction
-hardcover_isbn: ''
-paperback_isbn: 9781501126376
-publication_date: '2017-01-24'
-subtitle: A Novel
 title: The Signal Flame
-editions:
-  hardcover: ''
-  paperback: '9781501126376'
-  ebook: '9781501126406'
+subtitle: A Novel
+date: '2017-01-24T10:17:00-05:00'
+publication_date: '2017-01-24'
 editions_isbn:
   hardcover: ''
   paperback: 9781501126376
   ebook: 9781501126406
-
+genre:
+    - fiction
+description: The stunning second novel from National Book Award finalist Andrew Krivák
+  – a heartbreaking, captivating story about a family awaiting the return of their
+  youngest son from the Vietnam War.
+cover_image: "/img/cover-signal-flame-final-700px.jpg"
+featured_image: "/img/bg-forest-2100.jpg"
 ---
 In their small town in northeastern Pennsylvania, Hannah and her son Bo mourn the loss of the family patriarch, Jozef Vinich. They were three generations under one roof, a war-haunted family in a war-torn century, but only one branch of a scraggy tree.
 
