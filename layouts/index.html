@@ -21,12 +21,21 @@
       </div>
       <div class="w-75-l center pa4">
         <h2 class="mt5">Praise for <i>{{ .Title }} </i> </h2>
-        {{ range $blurb := .Params.reviews }}
-          <div class="blurb f3-l lh-copy mb5">
-            <p class="mv4">{{ $blurb.copy_markdown | markdownify }}</p>
-            <span class="f5"> – {{ $blurb.attribution | markdownify }}</span>
-          </div>
+
+
+        {{ $book_path := slice .File.Path }}
+
+        {{ $reviews := where .Site.RegularPages "Section" "review" }}
+
+        {{ range $reviews }}
+          {{ $related_book := intersect $book_path .Params.books }}
+          {{ if $related_book }}
+            {{ .Render "fancy-quote" }}
+          {{ end }}
         {{ end }}
+
+      
+
       </div>
     </main>
   {{ end }}

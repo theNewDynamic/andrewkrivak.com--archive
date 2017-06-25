@@ -11,6 +11,12 @@ log = true
   page = "/:title/"
   about = "/:filename/"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+book = "books"
+
+
 [[menu.main]]
     name = "about"
     weight = 1
