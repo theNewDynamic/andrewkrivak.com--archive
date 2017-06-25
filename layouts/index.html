@@ -19,23 +19,8 @@
           </div>
         </div>
       </div>
-      <div class="w-75-l center pa4">
-        <h2 class="mt5">Praise for <i>{{ .Title }} </i> </h2>
-
-
-        {{ $book_path := slice .File.Path }}
-
-        {{ $reviews := where .Site.RegularPages "Section" "review" }}
-
-        {{ range $reviews }}
-          {{ $related_book := intersect $book_path .Params.books }}
-          {{ if $related_book }}
-            {{ .Render "fancy-quote" }}
-          {{ end }}
-        {{ end }}
-
-      
-
+      <div class="center mb5 pa4 w-75-l">
+        {{- partial "books/praise.html" (dict "count" 100 "context" . ) -}}
       </div>
     </main>
   {{ end }}
