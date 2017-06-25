@@ -1,0 +1,27 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  {{ range first 1 (where .Data.Pages "Section" "book") }}
+    <main>
+      <div class="cover" style="background-image:url({{ $.Params.hero.image }});">
+        <div class="cf w-80-l ph4 ph4-m center pv4 pv5-l">
+          <div class="fl w-100 w-50-l pt4-l">
+            {{ with .Params.description }}
+              <div class="cf pr3 f3 f2-ns lh-copy white">
+                {{ . | markdownify }}
+              </div>
+            {{ end }}
+            <div class="hide-s show-l">{{ partial "books/buylinks" (dict "hardcover" .Params.hardcover_isbn "paperback" .Params.paperback_isbn "ebook" .Params.ebook_isbn "buylinkClasses" "f5 link bg-animate hover-bg-near-black br2 ba ph3 pv2 mr1 mb2 db dib-ns white" "textcolor" "white") }}</div>
+          </div>
+          <div class="fl w-100 w-50-l pl5-l mt4 mt0-ns">
+            <a href="{{ .URL }}">
+              <img src="{{ .Params.cover_image }}" alt="" class="shadow-5 mt3-s mt3-m mt0-l" style="max-height: 80vh;">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="center mb5 pa4 w-75-l">
+        {{- partial "books/praise.html" (dict "count" 100 "context" . ) -}}
+      </div>
+    </main>
+  {{ end }}
+{{ end }}
