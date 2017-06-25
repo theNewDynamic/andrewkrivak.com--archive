@@ -15,6 +15,10 @@ subtitle: A Novel
 title: The Signal Flame
 editions:
   hardcover: ''
+  paperback: '9781501126376'
+  ebook: '9781501126406'
+editions_isbn:
+  hardcover: ''
   paperback: 9781501126376
   ebook: 9781501126406
 
