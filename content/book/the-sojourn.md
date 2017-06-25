@@ -1,26 +1,22 @@
 ---
-cover_image: "/img/cover_sojourn_hb.jpg"
+title: The Sojourn
+subtitle: A Novel
+publication_date: '2011-04-09T14:25:41.142Z'
 date: '2017-06-25T14:25:41.142Z'
 description: A poignant tale of fathers and sons, addressing the great immigration
   to America and the desire to live the American dream amid the unfolding tragedy
   in Europe.
-ebook_isbn: 9781934137413
 genre:
-- fiction
-hardcover_isbn: ''
-paperback_isbn: 9781934137345
-publication_date: '2011-04-09'
-subtitle: A Novel
-title: The Sojourn
-editions:
-- paperback: '9781934137345'
-  ebook: '9781934137413'
-featured_image: ''
+  - fiction
 editions_isbn:
   hardcover: ''
   paperback: 9781934137345
   ebook: 9781934137413
-
+cover_image: "/img/cover_sojourn_hb.jpg"
+featured_image:
+hardcover_isbn: ''
+ebook_isbn: 9781934137413
+paperback_isbn: 9781934137345
 ---
 ![](/img/nba_finalist.gif)
 
