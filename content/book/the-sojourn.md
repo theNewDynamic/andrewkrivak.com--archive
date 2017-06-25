@@ -2,7 +2,7 @@
 title: The Sojourn
 subtitle: A Novel
 publication_date: '2011-04-09T14:25:41.142Z'
-date: '2017-06-25T14:25:41.142Z'
+date: '2011-04-09T14:25:41.142Z'
 description: A poignant tale of fathers and sons, addressing the great immigration
   to America and the desire to live the American dream amid the unfolding tragedy
   in Europe.
