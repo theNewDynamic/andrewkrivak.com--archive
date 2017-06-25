@@ -7,14 +7,10 @@ log = true
 [params]
   body_classes = "bg-white serif"
   #background_color_class = "bg-near-black"
-[permalinks]
-  page = "/:title/"
-  about = "/:filename/"
 
 [taxonomies]
 tag = "tags"
 category = "categories"
-book = "books"
 
 
 [[menu.main]]
