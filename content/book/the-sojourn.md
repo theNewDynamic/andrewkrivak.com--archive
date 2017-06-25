@@ -12,9 +12,6 @@ paperback_isbn: 9781934137345
 publication_date: '2011-04-09'
 subtitle: A Novel
 title: The Sojourn
-editions:
-- paperback: '9781934137345'
-  ebook: '9781934137413'
 featured_image: ''
 
 ---

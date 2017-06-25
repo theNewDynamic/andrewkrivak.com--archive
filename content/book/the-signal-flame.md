@@ -11,10 +11,6 @@ hardcover_isbn: null
 paperback_isbn: 9781501126376
 publication_date: 2017-01-24
 genre: fiction
-editions:
- hardcover:
- paperback: 97815011263700
- ebook: 978150112640600
 ---
 
 In their small town in northeastern Pennsylvania, Hannah and her son Bo mourn the loss of the family patriarch, Jozef Vinich. They were three generations under one roof, a war-haunted family in a war-torn century, but only one branch of a scraggy tree.
