@@ -7,10 +7,11 @@ description: "The stunning second novel from National Book Award finalist Andrew
   a heartbreaking, captivating story about a family awaiting the return of their youngest
   son from the Vietnam War."
 ebook_isbn: 9781501126406
-hardcover_isbn: null
+hardcover_isbn:
 paperback_isbn: 9781501126376
 publication_date: 2017-01-24
-genre: fiction
+genre:
+ - fiction
 ---
 
 In their small town in northeastern Pennsylvania, Hannah and her son Bo mourn the loss of the family patriarch, Jozef Vinich. They were three generations under one roof, a war-haunted family in a war-torn century, but only one branch of a scraggy tree.

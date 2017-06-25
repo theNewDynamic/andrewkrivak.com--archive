@@ -1,13 +1,13 @@
 ---
 cover_image: "/img/cover_sojourn_hb.jpg"
-date: '2017-06-25T14:25:41.142Z'
+date: 2017-06-25T14:25:41.142Z
 description: A poignant tale of fathers and sons, addressing the great immigration
   to America and the desire to live the American dream amid the unfolding tragedy
   in Europe.
 ebook_isbn: 9781934137413
 genre:
-- fiction
-hardcover_isbn: ''
+ - fiction
+hardcover_isbn:
 paperback_isbn: 9781934137345
 publication_date: '2011-04-09'
 subtitle: A Novel
