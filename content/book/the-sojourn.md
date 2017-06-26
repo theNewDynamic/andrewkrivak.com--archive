@@ -12,8 +12,10 @@ genre:
 description: A poignant tale of fathers and sons, addressing the great immigration
   to America and the desire to live the American dream amid the unfolding tragedy
   in Europe.
+#images is for cover image - top image will display, SEO
 images:
   - "/img/cover_sojourn_hb.jpg"
+#featured image is for hero
 featured_image:
 ---
 ![](/img/nba_finalist.gif)
