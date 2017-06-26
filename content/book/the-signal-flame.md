@@ -12,7 +12,8 @@ genre:
 description: The stunning second novel from National Book Award finalist Andrew Krivák
   – a heartbreaking, captivating story about a family awaiting the return of their
   youngest son from the Vietnam War.
-cover_image: "/img/cover-signal-flame-final-700px.jpg"
+images:
+  - "/img/cover-signal-flame-final-700px.jpg"
 featured_image: "/img/bg-forest-2100.jpg"
 ---
 In their small town in northeastern Pennsylvania, Hannah and her son Bo mourn the loss of the family patriarch, Jozef Vinich. They were three generations under one roof, a war-haunted family in a war-torn century, but only one branch of a scraggy tree.

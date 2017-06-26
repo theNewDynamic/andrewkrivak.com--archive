@@ -3,6 +3,8 @@ excerpt: "When I first conceived of _The Sojourn_, it seemed impossible to write
   but an epic work that teemed with characters and spanned generations."
 date: 2011-04-07T12:00:00-05:00
 title: A Conversation on The Sojourn
+images:
+  - "/img/WWI.Grandfather.Aus-Hun.jpg"
 ---
 
 ![A Conversation on The Sojourn](/img/WWI.Grandfather.Aus-Hun.jpg)

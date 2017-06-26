@@ -14,7 +14,9 @@
           </div>
           <div class="fl w-100 w-50-l pl5-l mt4 mt0-ns">
             <a href="{{ .URL }}">
-              <img src="{{ .Params.cover_image }}" alt="" class="shadow-5 mt3-s mt3-m mt0-l" style="max-height: 80vh;">
+            {{ if .Params.images }}
+              <img src="{{ index (.Params.images) 0 }}" alt="Cover image for {{ .Title }}" class="w-90 shadow-5 mt3-s mt0-m mt0-l mb2 mb0-l">
+            {{ end }}
             </a>
           </div>
         </div>
