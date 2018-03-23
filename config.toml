@@ -3,6 +3,7 @@ title = "Andrew Krivák"
 baseurl = "https://www.andrewkrivak.com"
 theme = "thenewdynamic-hugo-core-theme"
 metaDataFormat = "yaml"
+buildFuture = true
 log = true
 [params]
   body_classes = "bg-white serif"
