@@ -1,4 +1,5 @@
 ---
+label: review
 hide_body: false
 is_partial: false
 fields:
@@ -37,3 +38,14 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- content/review/jesmyn-ward-on-the-signal-flame.md
+- content/review/thomas-moore-on-the-signal-flame.md
+- content/review/leah-hager-cohen-on-the-sojourn.md
+- content/review/library-journal-on-the-sojourn.md
+- content/review/maaza-mengiste-on-the-signal-flame.md
+- content/review/richard-russo-on-the-signal-flame.md
+- content/review/sebastion-smee-on-the-sojourn.md
+- content/review/mary-russel-on-the-sojourn.md
+- content/review/publishers-weekly-on-the-sojourn.md
+- content/review/national-book-awards-on-the-finalist.md

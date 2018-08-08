@@ -1,4 +1,5 @@
 ---
+label: event
 hide_body: false
 is_partial: false
 fields:
@@ -88,3 +89,13 @@ fields:
   type: boolean
   hidden: false
   default: false
+pages:
+- content/event/_index.md
+- content/event/harvard-book-store-feb-3.md
+- content/event/book-culture-march-24.md
+- content/event/andrew-krivak-clsc-author-the-signal-flame.md
+- content/event/pages-a-bookstore-feb-24.md
+- content/event/riverrun-bookstore-feb-16.md
+- content/event/the-concord-bookshop-march-5.md
+- content/event/gibsons-books-feb-9.md
+- content/event/toadstool-bookshop-feb-11.md

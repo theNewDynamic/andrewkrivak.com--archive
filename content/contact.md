@@ -1,14 +1,9 @@
 ---
 title: Contact
+type: page
+
 ---
-
-**Publicity and event queries:**
-
-Please contact Kate Lloyd.
-
-[kate.lloyd@simonandschuster.com](mailto:kate.lloyd@simonandschuster.com)
-
-Agent representation:
+**Agent representation:**
 
 Betsy Lerner
 Dunow Carlson & Lerner

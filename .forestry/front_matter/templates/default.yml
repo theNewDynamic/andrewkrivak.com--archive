@@ -1,6 +1,5 @@
 ---
-pages:
-- journal/the-signal-flame-is-among-the-finalists-for-the-2018-chautauqua-prize..md
+label: default
 hide_body: false
 is_partial: false
 fields:
@@ -29,3 +28,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/journal/the-signal-flame-is-among-the-finalists-for-the-2018-chautauqua-prize..md

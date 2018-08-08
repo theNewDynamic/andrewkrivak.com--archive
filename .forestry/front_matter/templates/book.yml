@@ -1,4 +1,5 @@
 ---
+label: book
 hide_body: false
 is_partial: false
 fields:
@@ -79,3 +80,7 @@ fields:
   type: boolean
   hidden: false
   default: false
+pages:
+- content/book/_index.md
+- content/book/the-signal-flame.md
+- content/book/the-sojourn.md
