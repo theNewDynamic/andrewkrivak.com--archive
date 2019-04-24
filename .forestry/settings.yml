@@ -4,20 +4,61 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- path: content
-  label: Pages
+- type: directory
+  path: content/news
+  label: News
   create: all
+  match: "**/*"
   templates:
-  - default
-  - home
-- path: content/about
-  label: About
+  - article
+- type: directory
+  path: content/event
+  label: Events
   create: all
+  match: "**/*"
+  templates:
+  - event
+- type: directory
+  path: content/review
+  label: Reviews
+  create: all
+  match: "**/*"
+  templates:
+  - review
+- type: directory
+  path: content/writing
+  label: Writing
+  create: all
+  match: "**/*"
+  templates:
+  - writing
+- type: directory
+  path: content/book
+  label: Books
+  create: all
+  match: "**/*"
+  templates:
+  - book
+- type: directory
+  path: content
+  label: Other Pages
+  create: all
+  match: "*"
   templates:
   - default
 upload_dir: static/uploads
 public_path: "/uploads"
-front_matter_path: ''
+front_matter_path: "/uploads"
 use_front_matter_path: false
 file_template: ":filename:"
-version: 0.54
+build:
+  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  publish_command: hugo -d public
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.54
+  publish_env:
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.54
+  preview_output_directory: public
+  output_directory: public
