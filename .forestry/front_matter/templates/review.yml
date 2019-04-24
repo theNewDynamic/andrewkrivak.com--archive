@@ -1,50 +1,31 @@
 ---
-label: review
 hide_body: false
+is_partial: false
 fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
+- type: include
+  name: defaults
+  label: defaults
+  template: partial-default
+- type: include
+  name: date
+  label: date
+  template: partial-date
 - name: attribution
   label: Attribution
   type: text
   hidden: false
-  default: 
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: 
-- name: book
+  default: ''
+- type: select
+  name: book
+  config:
+    source:
+      type: pages
+      section: book
   label: Book
-  type: text
-  hidden: false
-  default: 
-- name: description
-  label: Description
-  type: textarea
-  hidden: false
-  default: 
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
-- name: featured
+- type: boolean
+  name: featured
   label: Featured
-  type: boolean
-  hidden: false
-  default: ''
-pages:
-- content/review/maaza-mengiste-on-the-signal-flame.md
-- content/review/sebastion-smee-on-the-sojourn.md
-- content/review/richard-russo-on-the-signal-flame.md
-- content/review/library-journal-on-the-sojourn.md
-- content/review/leah-hager-cohen-on-the-sojourn.md
-- content/review/thomas-moore-on-the-signal-flame.md
-- content/review/jesmyn-ward-on-the-signal-flame.md
-- content/review/national-book-awards-on-the-finalist.md
-- content/review/publishers-weekly-on-the-sojourn.md
-- content/review/mary-russel-on-the-sojourn.md
+- type: include
+  name: weight
+  label: weight
+  template: partial-weight

@@ -1,100 +1,24 @@
 ---
-label: event
 hide_body: false
 fields:
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: 
-- name: link
-  label: Link
-  type: text
-  hidden: false
-  default: 
+- type: include
+  name: defaults
+  label: defaults
+  template: partial-default
+- type: include
+  name: date
+  label: date
+  template: partial-date
 - name: show_time
   label: Show time
   type: boolean
   hidden: false
   default: true
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: venue
-  label: Venue
-  type: field_group
-  fields:
-  - name: address
-    label: Address
-    type: text
-    hidden: false
-    default: ''
-  - name: city
-    label: City
-    type: text
-    hidden: false
-    default: ''
-  - name: name
-    label: Name
-    type: text
-    hidden: false
-    default: ''
-  - name: state
-    label: State
-    type: text
-    hidden: false
-    default: ''
-  - name: zip
-    label: Zip
-    type: text
-    hidden: false
-    default: ''
-  hidden: false
-  default: 
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
-- name: image
-  label: Image
-  type: text
-  hidden: false
-  default: 
-- name: description
-  label: Description
-  type: text
-  hidden: false
-  default: 
-- name: images
-  label: Images
-  type: text
-  hidden: false
-  default: 
-- name: aliases
-  label: Aliases
-  type: list
-  hidden: false
-  default: ''
-- name: sdate
-  label: Sdate
-  type: datetime
-  hidden: false
-  default: ''
-- name: draft
-  label: Draft
-  type: boolean
-  hidden: false
-  default: false
-pages:
-- content/event/book-culture-march-24.md
-- content/event/the-concord-bookshop-march-5.md
-- content/event/riverrun-bookstore-feb-16.md
-- content/event/pages-a-bookstore-feb-24.md
-- content/event/andrew-krivak-clsc-author-the-signal-flame.md
-- content/event/harvard-book-store-feb-3.md
-- content/event/_index.md
-- content/event/toadstool-bookshop-feb-11.md
-- content/event/gibsons-books-feb-9.md
+- type: include
+  name: image
+  label: image
+  template: partial-images-w-credit 
+- type: include
+  name: venue
+  label: venue
+  template: partial-venue
