@@ -1,6 +1,6 @@
 ---
+label: review
 hide_body: false
-is_partial: false
 fields:
 - type: include
   name: defaults
@@ -20,7 +20,7 @@ fields:
   config:
     source:
       type: pages
-      section: book
+      section: books
   label: Book
 - type: boolean
   name: featured
