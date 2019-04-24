@@ -30,5 +30,6 @@ fields:
   label: weight
   template: partial-weight
 pages:
+- content/review/sheryl-cotleur-on-the-bear.md
 - content/review/josh-weil-on-the-bear.md
 - content/review/salvatore-scibona-on-the-bear.md
