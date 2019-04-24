@@ -1,7 +1,6 @@
 ---
 label: book
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -81,6 +80,6 @@ fields:
   hidden: false
   default: false
 pages:
-- content/book/_index.md
-- content/book/the-signal-flame.md
 - content/book/the-sojourn.md
+- content/book/the-signal-flame.md
+- content/book/_index.md
