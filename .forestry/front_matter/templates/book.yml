@@ -80,7 +80,7 @@ fields:
   hidden: false
   default: false
 pages:
-- content/book/the-bear.md
 - content/book/the-sojourn.md
+- content/book/the-bear.md
 - content/book/the-signal-flame.md
 - content/book/_index.md
