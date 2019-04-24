@@ -10,7 +10,8 @@ editions_isbn:
   hardcover: ''
   paperback: 9781942658719
   ebook: 9781942658702
-images: []
+images:
+- "/uploads/2019/04/24/9781942658702-the-bear.jpg"
 featured_image: "/uploads/2019/04/24/9781942658702-the-bear.jpg"
 aliases: []
 type: ''
