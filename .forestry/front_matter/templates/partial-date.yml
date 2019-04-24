@@ -5,3 +5,4 @@ fields:
 - type: datetime
   name: date
   label: Date
+  default: now
