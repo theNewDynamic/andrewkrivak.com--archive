@@ -7,42 +7,42 @@ sections:
 - type: directory
   path: content/news
   label: News
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - article
 - type: directory
   path: content/event
   label: Events
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - event
 - type: directory
   path: content/review
   label: Reviews
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - review
 - type: directory
   path: content/writing
   label: Writing
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - writing
 - type: directory
   path: content/book
   label: Books
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - book
 - type: directory
   path: content
   label: Other Pages
-  create: all
+  create: documents
   match: "*"
   templates:
   - default
