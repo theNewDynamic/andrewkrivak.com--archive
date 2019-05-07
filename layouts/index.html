@@ -1,15 +1,23 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
+{{ $reviews := where .Site.RegularPages "Section" "review" }}
   {{ range first 1 (where .Data.Pages "Section" "book") }}
+    {{ $reviews_related := where (where ($reviews) ".Params.book" .File.Path) ".Params.featured" true }}
     <main>
       <div class="cover" style="background: linear-gradient(to bottom, rgba(30,87,153,0.79) 0%,rgba(125,185,232,0.98) 90%,rgba(125,185,232,1) 100%);"
       >
         <div class="cf w-80-l ph4 ph4-m center pv4 pv5-l">
-          <div class="fl w-100 w-50-l pt4-l">
-            {{ with .Params.description }}
-              <div class="cf pr3 f3 f2-ns lh-copy mb4 white">
-                {{ . | markdownify }}
-              </div>
+          <div class="fl w-100 w-50-l pt4-l">                    
+            {{ with $reviews_related }}
+              {{ range first 1 . }}
+                {{ .Render "fancy-quote" }}
+              {{ end }}
+            {{else}}
+              {{ with .Params.description }}
+                <div class="cf pr3 f3 f2-ns lh-copy mb4 white">
+                  {{ . | markdownify }}
+                </div>
+              {{ end }} 
             {{ end }}
             {{ partial "books/buylinks" (dict "context" . "buylinkClasses" "f5 link bg-animate hover-bg-near-black br2 ba ph3 pv2 mr1 mb2 db dib-ns white" "textcolor" "white") }}
           </div>
