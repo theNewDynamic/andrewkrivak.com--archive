@@ -23,3 +23,5 @@ fields:
   name: venue
   label: venue
   template: partial-venue
+pages:
+- content/event/2019-american-library-association-annual-2019.md
