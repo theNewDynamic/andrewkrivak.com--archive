@@ -1,0 +1,44 @@
+languageCode: en-us
+title: Andrew Krivak
+baseurl: 'https://www.andrewkrivak.com'
+theme:
+  - seo
+  - thenewdynamic-hugo-core-theme
+metaDataFormat: yaml
+buildFuture: true
+log: true
+params:
+  body_classes: bg-white serif
+  seo:    
+    site_name: Andrew Krivak 
+    # Used for articles without images
+    default_image: "/uploads/2019/04/24/9781942658702-the-bear.jpg"
+    # if true will use the SEO data object to output an json+ld script tag.
+    jsonld: true
+    # if true will display a human readable overlay on everypage to monitor SEO data object (only if dev != production)
+    debug: false
+taxonomies:
+  tag: tags
+  category: categories
+menu:
+  main:
+    - name: about
+      weight: 1
+      identifier: about
+      url: /about/
+    - name: books
+      identifier: books
+      weight: 2
+      url: /book/
+    - name: contact
+      identifier: contact
+      weight: 3
+      url: /contact/
+    - name: journal
+      identifier: journal
+      weight: 4
+      url: /journal/
+    - name: events
+      identifier: events
+      weight: 5
+      url: /event/
