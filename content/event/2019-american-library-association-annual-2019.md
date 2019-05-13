@@ -1,6 +1,6 @@
 ---
-title: 2019 American Library Association Annual 2019
-date: 2019-05-13T09:38:29-04:00
+title: American Library Association Annual 2019
+date: 2019-06-23T13:00:29-04:00
 image: 
 description: ''
 link: 
@@ -11,8 +11,8 @@ venue:
   name: ''
   state: ''
   zip: ''
-  link: ''
+  link: http://www.ala.org/united/events_conferences/annual/2019/authorevents
 images: []
-draft: true
 
 ---
+Editor's Panel. Appearing with Erika Goldman, Publisher and Editor of Bellevue Literary Press.
