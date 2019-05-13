@@ -11,8 +11,10 @@ venue:
   name: ''
   state: ''
   zip: ''
-  link: http://www.ala.org/united/events_conferences/annual/2019/authorevents
+  link: ''
 images: []
 
 ---
 Editor's Panel. Appearing with Erika Goldman, Publisher and Editor of Bellevue Literary Press.
+
+[Click here for more information.](http://www.ala.org/united/events_conferences/annual/2019/authorevents "ALA")
