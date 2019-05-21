@@ -7,7 +7,7 @@
     {{ end }}
     <h1 class="f3 near-black">
       <a href="{{ .URL }}" class="link black dim">
-        {{ .Title }}
+        {{ .Title | markdownify }}
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
