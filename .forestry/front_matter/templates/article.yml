@@ -1,6 +1,6 @@
 ---
 label: article
-hide_body: true
+hide_body: false
 fields:
 - type: include
   name: defaults
