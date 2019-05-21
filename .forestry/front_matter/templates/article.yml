@@ -14,3 +14,5 @@ fields:
   name: image
   label: image
   template: partial-images-w-credit
+pages:
+- content/journal/a-personal-note-on-writing-the-bear.md
