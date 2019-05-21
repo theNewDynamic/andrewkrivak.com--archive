@@ -1,5 +1,6 @@
 ---
 image: "/uploads/andrew-krivak.jpg"
 title: About Andrew
+
 ---
-Andrew Kriv&aacute;k is the author of the award-winning novel, *The Sojourn*, which was a finalist for the National Book Award, and received the Dayton Literary Peace Prize for fiction and the inaugural Chautauqua Prize. &nbsp;He lives in Somerville, Massachusetts with his wife and three children.
+Andrew Krivak is the author of two previous novels: _The Signal Flame_ (2017), a Chautauqua Prize finalist, and _The Sojourn_ (2011), a National Book Award finalist and winner of both the Chautauqua Prize and the Dayton Literary Peace Prize for fiction. He lives with his wife and three children in Somerville, Massachusetts, and Jaffrey, New Hampshire, in the shadow of Mount Monadnock, which inspired much of the landscape in _The Bear_.
