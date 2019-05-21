@@ -1,0 +1,19 @@
+
+<!-- TODO: Add follow intents where available TODO: Revisit color and hover color -->
+
+{{ $url := printf "%s" .URL | absLangURL }}
+
+  <a href="http://www.facebook.com/sharer.php?u={{ $url }}" class="link-transition facebook link dib z-999 pt3 pt0-l mr2">
+    {{ partial "svg/facebook.svg" (dict "size" "32px") }}
+  </a>
+
+  <a href="#" class="link-transition twitter link dib z-999 pt3 pt0-l mr2">
+    {{ partial "svg/twitter.svg" (dict "size" "32px") }}
+  </a>
+
+  <a href="mailto:?subject=Super%20fast%20and%20easy%20Social%20Media%20Sharing%20Buttons.%20No%20JavaScript.%20No%20tracking.&amp;body=http%3A%2F%2Fsharingbuttons.io" class="link-transition twitter link dib z-999 pt3 pt0-l mr2">
+    {{ partial "svg/email.svg" (dict "size" "32px") }}
+  </a>
+
+
+{{/* https://www.facebook.com/sharer.php?u=http%3A%2F%2Fgist.github.com%2Fdr-dimitru%2F7164862&t=Social%20links%2C%20%2B1s%20and%20shares%20using%20only%20HTML%20(no%20JS) */}}

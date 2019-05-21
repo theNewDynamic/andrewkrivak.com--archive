@@ -1,0 +1,20 @@
+{{ with .Params.publication_date }}
+  <h5 class="mb2 sans-serif ">
+    Publication Date: {{ . }}
+  </h5>
+{{ end }}
+{{ with .Params.hardcover_isbn }}
+  <p class="f6 sans-serif mv2">
+    Hardcover: {{ . }}
+  </p>
+{{ end }}
+{{ with .Params.paperback_isbn }}
+  <p class="f6 sans-serif mv2">
+    Paperback: {{ . }}
+  </p>
+{{ end }}
+{{ with .Params.ebook_isbn }}
+  <p class="f6 sans-serif  mv2">
+    Ebook: {{ . }}
+  </p>
+{{ end }}

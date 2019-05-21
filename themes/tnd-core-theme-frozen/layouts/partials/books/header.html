@@ -1,0 +1,17 @@
+<header class="mb3">
+  <h1 class="f2 f1-l lh-solid mb0">
+    <a href="{{ .URL }}" class="primary-color hover-black link">
+      {{ .Title }}
+    </a>
+    {{ with .Params.subtitle }}
+      <span class="f4 db dib-l lh-solid mt2 mt0-l">
+        {{ . }}
+      </span>
+    {{ end }}
+  </h1>
+  {{ range .Params.genre }}
+    <h2 class="f5 fw2 gray ma0 sans-serif">
+      {{ . | humanize }}
+    </h2>
+  {{ end }}
+</header>

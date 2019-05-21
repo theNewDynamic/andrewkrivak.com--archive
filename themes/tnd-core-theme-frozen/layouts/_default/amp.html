@@ -1,0 +1,28 @@
+<!DOCTYPE html>{{ $amp := $.Param "amp" }}
+<html {{ if ne $amp false }}amp{{ end }} lang="{{ $.Site.LanguageCode | default "en" }}" class="no-js">
+  <head>
+    {{ if ne $amp false }}
+      {{ block "amp" . -}}
+        {{ partial "amp/scripts.html" . }}{{ partial "amp/head-css.html" . }}
+      {{ end }}
+    {{ end }}
+
+  <title>{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}</title>
+
+  {{- partial "global/head-meta-and-links.html" . -}}
+  {{- partial "global/head-additions.html" . -}}
+
+  </head>
+  <body class="ma0{{ with .Site.Params.body_classes }} {{ . }}{{ end }}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+    {{ block "nav" . }}{{ .Render "nav" }}{{ end }}
+    <div class="content">
+      {{ block "header" . }}{{ partial "global/header.html" .}}{{ end }}
+      {{ block "hero" . }}{{ end }}
+      <main role="main">
+        {{ block "main" . }}{{ end }}
+      </main>
+      {{ block "footer" . }}{{ partial "global/footer.html" . }}{{ end }}
+    </div>
+    {{ block "scripts" . }}{{ partial "global/scripts.html" . }}{{ end }}
+  </body>
+</html>

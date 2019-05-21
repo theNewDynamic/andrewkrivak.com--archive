@@ -3,7 +3,7 @@ title: Andrew Krivak
 baseurl: 'https://www.andrewkrivak.com'
 theme:
   - seo
-  - thenewdynamic-hugo-core-theme
+  - tnd-core-theme-frozen
 metaDataFormat: yaml
 buildFuture: true
 log: true

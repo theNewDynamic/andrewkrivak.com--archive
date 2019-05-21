@@ -1,0 +1,13 @@
+{{ $featured_quote := index (where (where .Site.RegularPages "Section" "review") ".Params.featured" true) 0 }}
+{{ if $featured_quote }}
+  <section class="center pb-2-l ph1 ph4-ns pt5-l pv4 w-80-l">
+    {{ with $featured_quote.Content }}
+      <blockquote class="f3-l f4 lh-copy ">
+        {{ . }}
+      </blockquote>
+    {{ end }}
+    {{ with $featured_quote.Params.attribution }}
+      <div class="b ml5">— {{ . }}</div>
+    {{ end }}
+  </section>
+{{ end }}

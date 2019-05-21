@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <main class="w-100 cf min-vh-100">
+    <section class="cf w-80-l ph4 ph4-m center pv4 pv5-l">
+      {{- partial "books/header.html" . -}}
+      <div class="fl w-100 w-40-l pt2-l">
+      {{ if .Params.images }}
+        <img src="{{ index (.Params.images) 0 }}" alt="Cover image for {{ .Title }}" class="w-90 shadow-5 mt3-s mt0-m mt0-l mb2 mb0-l">
+      {{ end }}
+        {{ partial "books/meta-data.html" . }}
+      </div>
+      <div class="fl w-100 w-60-l mt4 mt0-ns">
+        <div class="bb b--black-20 measure-wide mv4 nested-copy-line-height">
+          {{ .Content }}
+        </div>
+        {{ partial "books/buylinks" (dict "context" . "buylinkClasses" "f5 link bg-animate hover-bg-near-black br2 ba ph3 pv2 mr1 mb2 db dib-ns black hover-white" "textcolor" "black") }}
+      </div>
+    </section>
+    <section class="w-80-l ph4 ph4-m center">
+      {{- partial "books/praise.html" (dict "count" 100 "context" . ) -}}
+    </section>
+    <div class="tc mv5">
+    {{ partial "books/buylinks" (dict "context" . "buylinkClasses" "f5 link bg-animate hover-bg-near-black br2 ba ph3 pv2 mr1 mb2 db dib-ns black hover-white" "textcolor" "black") }}
+
+    </div>
+  </main>
+{{ end }}
