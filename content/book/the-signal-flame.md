@@ -14,7 +14,7 @@ description: The stunning second novel from National Book Award finalist Andrew 
   youngest son from the Vietnam War.
 #images is for cover image - top image will display, SEO
 images:
-  - "/img/cover-signal-flame-final-700px.jpg"
+  - "/uploads/signal-flam-ppbk.jpg"
 #featured image is for hero
 featured_image: "/img/bg-forest-2100.jpg"
 ---
