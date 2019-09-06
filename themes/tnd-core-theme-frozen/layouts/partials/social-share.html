@@ -1,7 +1,7 @@
 
 <!-- TODO: Add follow intents where available TODO: Revisit color and hover color -->
 
-{{ $url := printf "%s" .URL | absLangURL }}
+{{ $url := printf "%s" .RelPermalink | absLangURL }}
 
   <a href="http://www.facebook.com/sharer.php?u={{ $url }}" class="link-transition facebook link dib z-999 pt3 pt0-l mr2">
     {{ partial "svg/facebook.svg" (dict "size" "32px") }}

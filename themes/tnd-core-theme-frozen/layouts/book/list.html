@@ -25,7 +25,7 @@
       </section>
       <section class="center mb6 ph4 ph4-m w-80-l">
         {{- partial "books/praise.html" (dict "count" 1 "context" . ) -}}
-        {{ partial "components/button-bordered.html" (dict "URL" .URL "copy" "more" "classes" "b--red") }}
+        {{ partial "components/button-bordered.html" (dict "URL" .RelPermalink "copy" "more" "classes" "b--red") }}
       </section>
     {{ end }}
     {{- partialCached "books/books-page-extras.html" . -}}

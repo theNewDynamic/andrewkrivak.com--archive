@@ -3,7 +3,7 @@
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width,minimum-scale=1">
- {{ .Hugo.Generator }}
+ {{ hugo.Generator }}
   {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
   {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -13,10 +13,11 @@
   {{/* LINKS */}}
   <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" />
 
- {{ if .RSSLink }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-  {{ end }}
+  {{ with .OutputFormats.Get "RSS" }}
+  <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ site.Title }}" />
+  <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ site.Title }}" />
+{{ end }}
+
 
   {{ if templates.Exists "partials/tnd-seo/print.html" }}
   {{ partial "tnd-seo/print.html" . }}

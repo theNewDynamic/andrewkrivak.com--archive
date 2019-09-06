@@ -1,6 +1,6 @@
 {{ partial "components/time.html" (dict "context" . ) }}
 <h1 class="lh-title">
-  <a href="{{ .URL }}" class="dim link primary-color-dark">
+  <a href="{{ .RelPermalink }}" class="dim link primary-color-dark">
     {{ .Title | markdownify }}
   </a>
 </h1>
