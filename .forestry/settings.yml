@@ -68,3 +68,4 @@ build:
   - HUGO_VERSION=0.55.6
   output_directory: public
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+version: 0.55.6
