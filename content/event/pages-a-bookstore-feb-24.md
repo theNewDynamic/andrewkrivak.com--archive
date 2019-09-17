@@ -1,5 +1,5 @@
 ---
-date: 2017-02-24 19:00:00
+date: 2017-02-24T19:00:00.000+00:00
 link: http://www.pagesabookstore.com/
 show_time: true
 title: 'Pages: A Bookstore'
@@ -9,6 +9,7 @@ venue:
   name: 'Pages: A Bookstore'
   state: CA
   zip: "90266"
----
+draft: true
 
+---
 Reading
