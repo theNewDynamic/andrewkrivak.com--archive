@@ -1,5 +1,5 @@
 ---
-date: 2017-03-24 19:00:00
+date: 2017-03-24T19:00:00.000+00:00
 link: http://www.bookculture.com/
 show_time: true
 title: Book Culture
@@ -9,6 +9,7 @@ venue:
   name: Book Culture
   state: NY
   zip: "10025"
----
+draft: true
 
+---
 Reading
