@@ -9,6 +9,7 @@ venue:
   name: The Concord Bookshop
   state: MA
   zip: '01742'
+draft: true
 
 ---
 Reading
