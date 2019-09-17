@@ -1,19 +1,18 @@
 ---
-title: "Chautauqua Literary and Scientific Circle Lecture"
-date: 2018-06-28T15:30:00-04:00
-draft: false
-image:
-description:
-link:
+title: Chautauqua Literary and Scientific Circle Lecture
+date: 2018-06-28T19:30:00.000+00:00
+image: 
+description: 
+link: 
 show_time: true
 venue:
-  address:
+  address: 
   city: Chautauqua
-  name: "Chautauqua Institution"
+  name: Chautauqua Institution
   state: New York
-  zip:
+  zip: 
 images: 
----
+draft: true
 
+---
 More information: [www.chq.org](http://chq.org/season/literary-arts/clsc/eventdetail/16369/andrew-krivak-clsc-author-the-signal-flame)
- 

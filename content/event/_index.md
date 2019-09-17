@@ -1,6 +1,7 @@
 ---
-title: "Events"
+title: Events
 description: Andrew Kriváks
 aliases:
-  - /events/
+- "/events/"
+
 ---
