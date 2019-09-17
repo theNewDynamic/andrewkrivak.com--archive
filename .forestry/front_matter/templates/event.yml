@@ -24,5 +24,6 @@ fields:
   label: venue
   template: partial-venue
 pages:
+- content/event/newport-beach-public-library.md
 - content/event/2019-american-library-association-annual-2019.md
 - content/event/harvard-book-store.md
