@@ -2,17 +2,15 @@
 title: Contact
 type: page
 description: ''
+draft: true
 
 ---
 **Publicity:**
 
-Molly Mikolowski
-
-A Literary Light
-
+Molly Mikolowski  
+A Literary Light  
+Molly.Mikolowski@gmail.com  
 612-728-1692
-
-Molly.Mikolowski@Gmail.com
 
 **Agent representation:**
 
