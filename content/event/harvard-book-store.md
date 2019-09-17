@@ -2,7 +2,7 @@
 title: Harvard Book Store
 date: 2020-02-11T19:00:00-05:00
 image: 
-description: Reading
+description: Reading from _The Bear_
 link: 
 show_time: true
 venue:
