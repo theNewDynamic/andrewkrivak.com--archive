@@ -1,6 +1,6 @@
 ---
 link: http://www.toadbooks.com/welcome
-sdate: 2017-02-11 11:00:00
+sdate: '2017-02-11T11:00:00.000+00:00'
 show_time: true
 title: Toadstool Bookshop
 venue:
@@ -8,7 +8,8 @@ venue:
   city: Peterborough
   name: Toadstool Bookshop
   state: NH
-  zip: 3458
----
+  zip: "3458"
+draft: true
 
+---
 A reading and conversation along with Thomas Moore, author of *Care of the Soul*.
