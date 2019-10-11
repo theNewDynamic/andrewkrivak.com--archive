@@ -7,10 +7,11 @@ fields:
   label: defaults
   template: partial-default
 - type: include
-  name: image
-  label: image
-  template: partial-images-w-credit
-- type: include
   name: weight
   label: weight
   template: partial-weight
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
