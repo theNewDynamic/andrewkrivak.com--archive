@@ -1,5 +1,5 @@
 ---
-image: "/uploads/andrew-krivak-pub-2019.jpg"
+image: "/uploads/krivak-2019.jpg"
 title: About Andrew
 
 ---
