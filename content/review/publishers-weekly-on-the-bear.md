@@ -1,6 +1,6 @@
 ---
 title: Publishers Weekly on The Bear
-attribution: Publishers Weekly
+attribution: Publishers Weekly (starred review)
 date: 2019-12-18T11:58:01-05:00
 book: book/the-bear.md
 description: ''
