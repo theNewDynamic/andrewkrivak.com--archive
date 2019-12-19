@@ -20,7 +20,6 @@ venue:
   zip: ''
   link: ''
 images: []
-draft: true
 
 ---
 An evening of conversation on books and writing with Salvatore Scibona, author of _The Volunteer_.
