@@ -16,7 +16,6 @@ venue:
   zip: ''
   link: ''
 images: []
-draft: true
 
 ---
 A reading from _The Bear_.
