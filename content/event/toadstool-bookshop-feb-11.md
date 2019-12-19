@@ -9,7 +9,8 @@ venue:
   name: Toadstool Bookshop
   state: NH
   zip: "3458"
+date: 2020-03-21T11:00:00-04:00
 draft: true
 
 ---
-A reading and conversation along with Thomas Moore, author of *Care of the Soul*.
+Reading from _The Bear_.
