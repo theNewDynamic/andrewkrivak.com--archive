@@ -1,7 +1,7 @@
 ---
 title: " Sheryl Cotleur on The Bear"
 attribution: " Sheryl Cotleur, Copperfield’s Books (Northern California)"
-date: 2019-12-19T00:00:00-05:00
+date: 2019-12-19T01:00:00-05:00
 book: book/the-bear.md
 description: ''
 featured: false
