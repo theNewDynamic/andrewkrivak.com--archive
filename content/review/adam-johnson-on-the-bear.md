@@ -1,7 +1,7 @@
 ---
 title: Adam Johnson on The Bear
 attribution: Adam Johnson, author of _The Orphan Master’s Son and Fortune Smiles_
-date: 2019-04-23T00:00:00-04:00
+date: 2019-12-19T03:00:00-05:00
 book: book/the-bear.md
 description: ''
 type: ''
