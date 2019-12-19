@@ -1,5 +1,5 @@
 ---
-title: Books and Books, Coral Gables
+title: Books & Books, Coral Gables
 date: 2020-02-20T20:00:14-05:00
 image: 
 description: "\n_265 Aragon Ave   \nCoral Gables, FL 33134 United States_\n\n[_+ Google
