@@ -1,6 +1,6 @@
 ---
 title: Harvard Book Store
-date: 2020-02-12T00:00:00.000+00:00
+date: 2002-02-11T19:00:00-05:00
 image: 
 description: Reading from _The Bear_
 link: 
