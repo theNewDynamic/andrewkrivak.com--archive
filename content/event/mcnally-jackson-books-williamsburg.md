@@ -1,6 +1,6 @@
 ---
 title: McNally Jackson Books, Williamsburg
-date: 2020-02-13T19:30:25-05:00
+date: 2020-02-13T19:00:25-05:00
 image: 
 description: |-
   76 N. 4th Street, Unit G
