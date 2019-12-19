@@ -1,5 +1,5 @@
 ---
-title: McNally Jackson Books Williamsburg
+title: McNally Jackson Books, Williamsburg
 date: 2020-02-13T19:30:25-05:00
 image: 
 description: |-
@@ -8,6 +8,8 @@ description: |-
   Brooklyn, NY. 11249
 
   718-387-0115
+
+  www.mcnallyjackson.com
 link: 
 show_time: true
 venue:
