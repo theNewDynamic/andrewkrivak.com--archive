@@ -30,6 +30,7 @@ fields:
   label: weight
   template: partial-weight
 pages:
+- content/review/booklist-on-the-bear.md
 - content/review/emily-crowe-an-unlikely-story-bookstore-café-plainville-ma-on-the-bear.md
 - content/review/josh-weil-on-the-bear.md
 - content/review/kirkus-reviews-on-the-bear.md
