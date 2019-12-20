@@ -1,6 +1,6 @@
 ---
 title: Newport Beach Public Library
-date: 2020-04-22T19:00:07-04:00
+date: 2020-04-22T23:00:07.000+00:00
 image: 
 description: A Reading and Conversation about _The Bear_ on Earth Day
 link: 
@@ -13,5 +13,6 @@ venue:
   zip: "92660"
   link: ''
 images: []
+draft: true
 
 ---
