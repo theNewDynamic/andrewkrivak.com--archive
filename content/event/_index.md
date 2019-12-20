@@ -1,6 +1,6 @@
 ---
 title: Events
-description: Andrew Kriváks
+description: Upcoming Readings & Events for _The Bear_
 aliases:
 - "/events/"
 
