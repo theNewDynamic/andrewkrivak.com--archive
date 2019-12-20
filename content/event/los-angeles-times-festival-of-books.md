@@ -13,6 +13,7 @@ venue:
   zip: "90089"
   link: https://events.latimes.com/festivalofbooks/
 images: []
+draft: true
 
 ---
 _Panel conversation + book signing_
