@@ -1,6 +1,6 @@
 ---
 title: Events
-description: Upcoming Readings & Events for _The Bear_
+description: Upcoming Readings & Events
 aliases:
 - "/events/"
 
