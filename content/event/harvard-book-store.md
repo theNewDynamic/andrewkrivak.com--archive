@@ -1,5 +1,5 @@
 ---
-title: Harvard Book Store
+title: 'Book launch: Harvard Book Store'
 date: 2020-02-11T19:00:00-05:00
 image: 
 description: Reading from _The Bear_
@@ -11,7 +11,7 @@ venue:
   name: Harvard Book Store
   state: MA
   zip: '02138'
-  link: ''
+  link: http://www.harvard.com/event/andrew_krivak1/
 images: []
 
 ---
