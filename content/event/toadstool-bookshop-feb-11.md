@@ -9,12 +9,9 @@ venue:
   name: Toadstool Bookshop
   state: NH
   zip: "3458"
+  link: https://www.toadbooks.com/event/2020-03
 date: 2020-03-21T11:00:00-04:00
-description: |-
-  12 Depot Square, Peterborough, NH 03458
-
-  www.toadbooks.com
-draft: true
+description: ''
 
 ---
 Reading from _The Bear_.
