@@ -12,7 +12,7 @@
         </h1>
         {{ with .Params.description }}
           <h2 class="center f3-l f5 fw1 lh-copy measure-wide-l mt3 white-80">
-            {{ . }}
+            {{ . | markdownify }}
           </h2>
         {{ end }}
       </div>
@@ -28,7 +28,7 @@
         </h1>
         {{ with .Params.description }}
           <h2 class="center f3-l f5 fw1 lh-copy mb4 measure-wide-l mt3 white-80">
-            {{ . }}
+            {{ . | markdownify }}
           </h2>
         {{ end }}
       </div>
