@@ -3,8 +3,8 @@
   <div class="f5 fw6 mb2">Order from these retailers</div>
 
   {{ with .context.Params.editions_isbn.hardcover  }}
-    <a href="//www.indiebound.org/product/info.jsp?isbn={{ . }}" target="_blank" class="{{ $buylinkClasses }}">
-      Your Independent Bookstore
+    <a href="https://www.bookshop.org/a/287/{{ . }}" target="_blank" class="{{ $buylinkClasses }}">
+      Bookshop
     </a>
     <a href="//search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ . }}" target="_blank" class="{{ $buylinkClasses }}">
       Barnes & Noble
@@ -14,8 +14,8 @@
   {{ end }}
 
   {{ with .context.Params.editions_isbn.paperback }}
-    <a href="//www.indiebound.org/product/info.jsp?isbn={{ . }}" target="_blank" class="{{ $buylinkClasses }}">
-      Your Independent Bookstore
+    <a href="https://www.bookshop.org/a/287/{{ . }}" target="_blank" class="{{ $buylinkClasses }}">
+      Bookshop
     </a>
     <a href="//search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ . }}" target="_blank" class="{{ $buylinkClasses }}">
       Barnes & Noble
