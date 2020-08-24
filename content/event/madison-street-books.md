@@ -16,3 +16,5 @@ images: []
 
 ---
 Virtual author chat with Jeff VanderMeer, hosted by Madison Street Books
+
+[Click here for more information](https://madstreetbooks.com/?q=h.calevent&act=showectitles&eid=10682)
