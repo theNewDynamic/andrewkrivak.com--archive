@@ -15,4 +15,6 @@ venue:
 images: []
 
 ---
-Virtual conversation with Christina Chiu, moderated by Lauren Acampora
+Virtual conversation with Christina Chiu, moderated by Lauren Acampora.
+
+[Click here for more information](https://www.writerscenter.org/calendar/chiukrivak/ "Writers Center")
