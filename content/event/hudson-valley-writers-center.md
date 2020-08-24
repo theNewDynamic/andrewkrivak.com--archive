@@ -11,7 +11,7 @@ venue:
   name: ''
   state: ''
   zip: ''
-  link: ''
+  link: 'https://www.writerscenter.org/calendar/chiukrivak/'
 images: []
 
 ---

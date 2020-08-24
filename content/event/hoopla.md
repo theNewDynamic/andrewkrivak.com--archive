@@ -11,7 +11,7 @@ venue:
   name: ''
   state: ''
   zip: ''
-  link: ''
+  link: 'https://www.facebook.com/events/675671799972347/'
 images: []
 
 ---
