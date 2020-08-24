@@ -1,6 +1,6 @@
 ---
 title: hoopla
-date: 2020-08-24T18:25:20-04:00
+date: 2020-09-15T19:00:20-04:00
 image: 
 description: Virtual Book Club LIVE! reading and conversation
 link: 
