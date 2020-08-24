@@ -8,10 +8,10 @@ show_time: true
 venue:
   address: ''
   city: ''
-  name: Online
+  name: ''
   state: ''
   zip: ''
-  link: https://www.facebook.com/events/675671799972347/
+  link: ''
 images: []
 
 ---
