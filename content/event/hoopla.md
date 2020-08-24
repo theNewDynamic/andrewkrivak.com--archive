@@ -17,6 +17,6 @@ images: []
 ---
 Virtual Book Club LIVE! reading and conversation
 
-[https://www.facebook.com/events/675671799972347/](https://www.facebook.com/events/675671799972347/ "https://www.facebook.com/events/675671799972347/")
+[Click here for more information.](https://www.facebook.com/events/675671799972347/ "Facebook event page")
 
 Book club resources for The Bear available at [http://theclub.hoopladigital.com/](http://theclub.hoopladigital.com/ "http://theclub.hoopladigital.com/")
