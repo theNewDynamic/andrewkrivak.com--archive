@@ -1,5 +1,5 @@
 ---
-title: 2020-10-18 Brattleboro Literary Festival
+title: Brattleboro Literary Festival
 date: 2020-10-18T11:15:54-04:00
 image: 
 description: The Brattleboro Literary Festival welcomes [Andrew Krivak](https://blpress.org/authors/andrew-krivak/),
