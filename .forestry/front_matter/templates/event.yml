@@ -25,6 +25,7 @@ fields:
   template: partial-venue
 pages:
 - content/event/2019-american-library-association-annual-2019.md
+- content/event/2020-10-04-brooklyn-book-festival.md
 - content/event/books-and-books-coral-gables.md
 - content/event/harvard-book-store.md
 - content/event/hoopla.md
