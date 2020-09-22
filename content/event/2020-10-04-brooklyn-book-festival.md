@@ -1,8 +1,10 @@
 ---
-title: 2020-10-04 Brooklyn Book Festival
-date: 2020-09-22T10:48:11-04:00
+title: Brooklyn Book Festival
+date: 2020-10-04T18:00:11-04:00
 image: 
-description: ''
+description: The Brooklyn Book Festival welcomes Andrew Krivak, author of The Bear,
+  for a conversation with Salar Abdoh and Chelsea Bieker, moderated by Jonny Diamond,
+  in which they discuss “art, love, and other methods of surviving the apocalypse.”
 link: 
 show_time: true
 venue:
@@ -16,3 +18,6 @@ images: []
 draft: true
 
 ---
+The Brooklyn Book Festival welcomes Andrew Krivak, author of The Bear, for a conversation with Salar Abdoh and Chelsea Bieker, moderated by Jonny Diamond, in which they discuss “art, love, and other methods of surviving the apocalypse.”
+
+[https://brooklynbookfestival.org/authors/andrew-krivak/](https://brooklynbookfestival.org/authors/andrew-krivak/%20 "https://brooklynbookfestival.org/authors/andrew-krivak/%20")
