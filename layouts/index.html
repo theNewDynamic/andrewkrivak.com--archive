@@ -1,4 +1,7 @@
-{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "header" }}
+<p style="text-align:center;padding:12px ;background-color: white;height:40px;"><a href="/book/the-bear/" style="color:#233950;" class="block f4 sans-serif link black"><i>The Bear</i> won the 2020 <img src="/uploads/banff_word.png" alt="" height="25" style="display: inline-block;"> Mountain Book Competition for Fiction and Poetry</a>
+</p>
+{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
 {{ $reviews := where site.RegularPages "Section" "review" }}
   {{ range first 1 (where site.RegularPages "Section" "book") }}
