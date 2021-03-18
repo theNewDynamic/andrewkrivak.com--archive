@@ -12,11 +12,11 @@ venue:
   name: ''
   state: ''
   zip: ''
-  link: ''
+  link: https://www.obpbooks.com/events
 images: []
 draft: true
 
 ---
-Virtual reading of The Bear and conversation sponsored by Off The Beaten Path Bookstore
+Virtual reading of The Bear and conversation sponsored by Off The Beaten Path Bookstore. 
 
 {{< youtube "v=wdOThxa3t2g" >}}
