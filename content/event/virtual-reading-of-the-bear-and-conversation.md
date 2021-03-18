@@ -18,4 +18,4 @@ images: []
 ---
 Virtual reading of The Bear and conversation sponsored by Off The Beaten Path Bookstore. 
 
-{{< youtube "v=wdOThxa3t2g" >}}
+{{< youtube "wdOThxa3t2g" >}}
