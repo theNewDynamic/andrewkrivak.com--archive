@@ -1,8 +1,9 @@
 ---
 title: Virtual reading of The Bear and conversation
-date: 2021-03-18T08:23:55-04:00
+date: 2021-03-31T13:00:00-04:00
 image: 
-description: sponsored by Off The Beaten Path Bookstore
+description: Virtual reading of The Bear and conversation sponsored by Off The Beaten
+  Path Bookstore
 link: 
 show_time: true
 venue:
@@ -16,4 +17,6 @@ images: []
 draft: true
 
 ---
+Virtual reading of The Bear and conversation sponsored by Off The Beaten Path Bookstore
+
 {{< youtube "v=wdOThxa3t2g" >}}
