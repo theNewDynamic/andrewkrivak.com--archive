@@ -18,3 +18,5 @@ type: ''
 draft: false
 ---
 In an Edenic future, a girl and her father live close to the land in the shadow of a lone mountain. They possess a few remnants of civilization: some books, a pane of glass, a set of flint and steel, a comb. The father teaches the girl how to fish and hunt, the secrets of the seasons and the stars. He is preparing her for an adulthood in harmony with nature, for they are the last of humankind. But when the girl finds herself alone in an unknown landscape, it is a bear that will lead her back home through a vast wilderness that offers the greatest lessons of all, if she can only learn to listen.
+
+![NEA SELECTS THE BEAR FOR GREAT READS](/uploads/nea-the-bear-20201.jpg)

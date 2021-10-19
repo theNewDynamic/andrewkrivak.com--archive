@@ -1,6 +1,6 @@
 {{ define "header" }}
-<p style="text-align:center;padding:12px ;background-color: white;height:40px;"><a href="/journal/banff-mountain-book-competition-mountain-fiction-and-poetry-award-presentation/" style="color:#233950;" class="block f4 sans-serif link black"><i>The Bear</i> won the 2020 <img src="/uploads/banff_word.png" alt="" height="25" style="display: inline-block;"> Mountain Book Competition for Fiction and Poetry</a>
-</p>
+{{/*  <p style="text-align:center;padding:12px ;background-color: white;height:40px;"><a href="/journal/banff-mountain-book-competition-mountain-fiction-and-poetry-award-presentation/" style="color:#233950;" class="block f4 sans-serif link black"><i>The Bear</i> won the 2020 <img src="/uploads/banff_word.png" alt="" height="25" style="display: inline-block;"> Mountain Book Competition for Fiction and Poetry</a>
+</p>  */}}
 {{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
 {{ $reviews := where site.RegularPages "Section" "review" }}
@@ -21,7 +21,7 @@
                   {{ . | markdownify }}
                 </div>
               {{ end }} 
-            {{ end }}
+            {{ end }}<br />
             {{ partial "books/buylinks" (dict "context" . "buylinkClasses" "f5 link bg-animate hover-bg-near-black br2 ba ph3 pv2 mr1 mb2 db dib-ns white" "textcolor" "white") }}
             <div class="cf pr3 f4 f2-ns lh-copy mt5 white">
               <a href="/journal/a-personal-note-on-writing-the-bear/" class="link dim white">{{ "Click here to read a personal note on making _The Bear_" | markdownify }}</a>
@@ -37,6 +37,10 @@
         </div>
       </div>
       <div class="center mb5 pa4 w-75-l">
+
+          <a href="/journal/2021-10-19-nea-selection-great-reads/" title="Link to NEA announcement"><img src="/uploads/nea-the-bear-20201.jpg" alt="image announcing the NEA selection of The Bear for the Arts Read" style="width:100%;margin:auto;"></a>
+
+
         {{- partial "books/praise.html" (dict "count" 100 "context" . ) -}}
       </div>
     </main>
