@@ -10,7 +10,8 @@ genre:
 editions_isbn:
   hardcover: '9781954276130'
   paperback: 
-  ebook: B0B8K3L3P3
+  ebook: 9781954276147
+  # ebook: B0B8K3L3P3
 images: 
 featured_image: ''
 editions:
