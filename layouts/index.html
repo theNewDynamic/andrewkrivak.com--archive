@@ -23,9 +23,9 @@
               {{ end }} 
             {{ end }}<br />
             {{ partial "books/buylinks" (dict "context" . "buylinkClasses" "f5 link bg-animate hover-bg-near-black br2 ba ph3 pv2 mr1 mb2 db dib-ns white" "textcolor" "white") }}
-            <div class="cf pr3 f4 f2-ns lh-copy mt5 white">
+            {{/*  <div class="cf pr3 f4 f2-ns lh-copy mt5 white">
               <a href="/journal/a-personal-note-on-writing-the-bear/" class="link dim white">{{ "Click here to read a personal note on making _The Bear_" | markdownify }}</a>
-            </div>
+            </div>  */}}
           </div>
           <div class="fl w-100 w-50-l pl5-l mt4 mt0-ns">
             <a href="{{ .RelPermalink }}">
