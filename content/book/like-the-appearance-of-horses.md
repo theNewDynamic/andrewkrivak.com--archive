@@ -8,9 +8,9 @@ description: A novel of one family, a century of war, and the promise of homecom
 genre:
 - fiction
 editions_isbn:
-  hardcover: ''
-  paperback: 9781501126376
-  ebook: 9781501126406
+  hardcover: '9781954276130'
+  paperback: 
+  ebook: B0B8K3L3P3
 images: 
 featured_image: ''
 editions:
