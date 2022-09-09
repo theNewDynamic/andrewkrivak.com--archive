@@ -21,7 +21,8 @@ editions:
   date: 2023-05-09T00:00:00-04:00
   cover_image: "/uploads/9781954276130.jpg"
 buy_links_external: []
-
+images:
+- "/uploads/9781954276130.jpg"
 ---
 Rooted in the small, mountain town of Dardan, Pennsylvania, where patriarch Jozef Vinich settled after surviving World War I, _Like the Appearance of Horses_ immerses us in the intimate lives of a family whose fierce bonds have been shaped by the great conflicts of the past century.
 
