@@ -71,3 +71,5 @@ fields:
   label: Featured Image
   description: Optional (may not be in use)
   hidden: true
+pages:
+- content/book/like-the-appearance-of-horses.md
