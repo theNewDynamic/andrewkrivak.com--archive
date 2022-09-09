@@ -7,7 +7,7 @@
       </blockquote>
     {{ end }}
     {{ with $featured_quote.Params.attribution }}
-      <div class="b ml5">— {{ . }}</div>
+      <div class="b ml5">— {{ . | markdownify }}</div>
     {{ end }}
   </section>
 {{ end }}
