@@ -25,3 +25,5 @@ Thursday, 7:00–8:00 PM
 Tuition: FREE with registration  
 Recommended donation: $20  
 Location: Virtual, Live on Zoom
+
+[Go to the White Bear Arts website to sign up](https://whitebeararts.org/inspire_events/br04-virtual-reading-with-author-andrew-krivak/ "White Bear Arts").
