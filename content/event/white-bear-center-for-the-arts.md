@@ -6,12 +6,12 @@ description: ''
 link: 
 show_time: true
 venue:
-  address: ''
+  address: Online
   city: ''
-  name: ''
+  name: White Bear Center for the Arts
   state: ''
   zip: ''
-  link: ''
+  link: https://whitebeararts.org/inspire_events/br04-virtual-reading-with-author-andrew-krivak/
 images: []
 
 ---
