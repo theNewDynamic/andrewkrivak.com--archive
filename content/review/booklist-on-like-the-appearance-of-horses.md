@@ -1,7 +1,7 @@
 ---
 title: Booklist on Like the Appearance of Horses
 attribution: Booklist (starred review)
-date: 2022-04-01T03:00:00-05:00
+date: 2022-05-10T03:00:00-05:00
 book: book/like-the-appearance-of-horses.md
 description: ''
 type: ''
