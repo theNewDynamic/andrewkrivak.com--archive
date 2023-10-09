@@ -17,5 +17,5 @@ images: []
 ---
 
 Thursday October 12, 2023 at 7:00 p.m.
-A Reading from Like the Appearance of Horses
+A Reading from *Like the Appearance of Horses*
 
