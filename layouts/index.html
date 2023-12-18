@@ -9,8 +9,13 @@
     <main>
       <div class="cover" style="background: linear-gradient(to bottom, rgba(30,87,153,0.79) 0%,rgba(125,185,232,0.98) 90%,rgba(125,185,232,1) 100%);"
       >
+      
         <div class="cf w-80-l ph4 ph4-m center pv4 pv5-l">
+          
           <div class="fl w-100 w-50-l pt4-l">                    
+            
+              <h2>Library Journal “Best Literary Fiction of the Year”</h2>
+            
             {{ with $reviews_related }}
               {{ range first 1 . }}
                 {{ .Render "fancy-quote" }}
